@@ -39,4 +39,4 @@ suits
     ['♣', '♦', '♥', '♠']
 
 
-[Youtuve Tutorial](https://www.youtube.com/watch?v=0pWjZByJ3Lk) by Jeremy Howard
+[Youtube Tutorial](https://www.youtube.com/watch?v=0pWjZByJ3Lk) by Jeremy Howard
